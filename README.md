@@ -2,7 +2,7 @@
 
 * Clone or Download the folder
 
-* In the commmand line navigate the Weather_App project
+* In the commmand line navigate to the Weather_App project
 
 * Navigate into the_weather folder using cd the_weather
 
@@ -13,3 +13,9 @@
 * Paste this into your chrome browser and press return
 
 * View the different cities weathers and add you own!
+
+![Imgur](https://i.imgur.com/Tqf7oxZ.png)
+
+![Imgur](https://i.imgur.com/xQIzswM.png)
+
+![Imgur](https://i.imgur.com/evVrCDw.png)
